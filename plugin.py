@@ -36,10 +36,10 @@ import supybot.callbacks as callbacks
 
 import twitter
 
-api=twitter.Api(consumer_key='EJnJIRGbPsbqBj7MVsfNA',
-		consumer_secret='G1pRD5jpD7AGX4Mzxyg2CpzdQUDMq7lTA2JO49bcPI',
-		access_token_key='247850081-yrraBeRCZhj3Nv30Ih7FBjDcj8t2HBYCqyz4P4jm',
-		access_token_secret='6uxg28HgTHbSw8VwptFi1yeZM9CBsMcfvIVTkAoyVg')
+api=twitter.Api(consumer_key='',
+		consumer_secret='',
+		access_token_key='',
+		access_token_secret='')
 
 def strip_accents(string):
   import unicodedata
