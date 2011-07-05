@@ -1,0 +1,8 @@
+Supybot Twitter Plugin
+
+Uses Python-Twitter (http://code.google.com/p/python-twitter/)
+
+Also requires:
+http://cheeseshop.python.org/pypi/simplejson 
+http://code.google.com/p/httplib2/ 
+http://github.com/simplegeo/python-oauth2
